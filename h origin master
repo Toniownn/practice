@@ -1,0 +1,33 @@
+[33mcommit 8c7b5ecde0a0c427cd7e2109d27c89c3c38f9deb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Toniownn <anthonycarl56@gmail.com>
+Date:   Sun Sep 1 20:10:02 2024 +0800
+
+    Revert "Your commit message"
+    
+    This reverts commit 4b4f51149704768792e1efd7792ab266f84d0ad4.
+
+[33mcommit 8e0223cfc7c7dfefe1097e73c946b9e87d435f6e[m
+Author: Toniownn <anthonycarl56@gmail.com>
+Date:   Sun Sep 1 20:07:44 2024 +0800
+
+    Revert "Your commit message"
+    
+    This reverts commit 4b4f51149704768792e1efd7792ab266f84d0ad4.
+
+[33mcommit cca7f6f386e83ed287f4f027f4f1f67f199a8ab2[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Toniownn <anthonycarl56@gmail.com>
+Date:   Sun Sep 1 20:02:09 2024 +0800
+
+    test
+
+[33mcommit 4b4f51149704768792e1efd7792ab266f84d0ad4[m
+Author: Toniownn <anthonycarl56@gmail.com>
+Date:   Sun Sep 1 20:00:22 2024 +0800
+
+    Your commit message
+
+[33mcommit fa6539e8bc852caebce8328636bf8875ba591624[m
+Author: Toniownn <anthonycarl56@gmail.com>
+Date:   Sun Sep 1 19:54:48 2024 +0800
+
+    Initial commit
